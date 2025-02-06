@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+    --color-lime-green: #c0b10e;
+    --color-gras-green: #769022;
+    --color-sky-blue: #769dba;
+    --color-peach-pink: #e09f9d;
+    --color-beige: #fce6c1;
+    --color-black: #190d00;
+    --color-grey: #d4d0ca;
+  }
+
+/* * fonts */
+
+@font-face {
+  font-family: josefin;
+  src: url("./assets/fonts/JosefinSlab-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: passion;
+  src: url("./assets/fonts/PassionOne-Regular.ttf");
+}
